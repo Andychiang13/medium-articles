@@ -20,3 +20,5 @@ Code used to obtain results for my Medium articles - [medium@conorosully](https:
   </tr>
   
 </table>
+
+This project has great content for data visualization. Saved for future project uses.
